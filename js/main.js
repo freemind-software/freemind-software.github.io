@@ -270,7 +270,7 @@
   });
 
 $('.nav-item .nav-link').click(function(){
-	$(#ftco-nav).removeClass('show');
+	$('#ftco-nav').removeClass('show');
 })
 
 
