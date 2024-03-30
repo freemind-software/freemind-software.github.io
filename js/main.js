@@ -269,7 +269,9 @@
     fixedContentPos: false
   });
 
-
+$('.nav-item .nav-link').click(function(){
+	$(#ftco-nav).removeClass('show');
+})
 
 
 
